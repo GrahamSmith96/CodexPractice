@@ -1,0 +1,18 @@
+[
+  {
+    "source": "Website form",
+    "company": "NorthRiver Manufacturing",
+    "industry": "Manufacturing",
+    "product_of_interest": "AI Customer Service Suite",
+    "customer_message": "We want to reduce after-sales inquiry pressure. Interested in a small pilot. We have FAQ docs and historical support tickets. We'd like to see a demo in one month.",
+    "sales_note": "No budget provided. Current service stack unknown."
+  },
+  {
+    "source": "Event registration",
+    "company": "BluePeak Logistics",
+    "industry": "Logistics",
+    "product_of_interest": "Lead Intelligence Assistant",
+    "customer_message": "Looking for lead qualification automation for inbound email and forms. Need integration with existing CRM and clear ROI assumptions.",
+    "sales_note": "Director-level contact. Asked for security questionnaire."
+  }
+]

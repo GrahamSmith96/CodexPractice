@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "ai-cs-suite",
+      "name": "AI Customer Service Suite",
+      "description": "AI assistant for customer service triage, FAQ answering, and agent handoff.",
+      "supported_channels": ["web chat", "email", "ticketing API"],
+      "deployment_options": ["cloud", "private cloud"],
+      "capabilities": [
+        "FAQ retrieval with source citation",
+        "intent routing",
+        "human handoff",
+        "conversation analytics"
+      ],
+      "known_limits": [
+        "No guaranteed timeline without discovery",
+        "Pricing is quote-based"
+      ]
+    },
+    {
+      "id": "lead-intel",
+      "name": "Lead Intelligence Assistant",
+      "description": "Lead intake enrichment and qualification copilot for marketing and inside sales.",
+      "supported_channels": ["web form", "CRM import", "email"],
+      "deployment_options": ["cloud"],
+      "capabilities": [
+        "lead scoring",
+        "missing-info detection",
+        "follow-up script generation"
+      ],
+      "known_limits": [
+        "No direct outbound dialing",
+        "Integrations vary by CRM"
+      ]
+    }
+  ]
+}
